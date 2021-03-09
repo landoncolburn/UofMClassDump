@@ -1,0 +1,25 @@
+{
+  "name": "uofmclassesdump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landoncolburn/UofMClassDump.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/landoncolburn/UofMClassDump/issues"
+  },
+  "homepage": "https://github.com/landoncolburn/UofMClassDump#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "dotenv": "^8.2.0",
+    "google-spreadsheet": "^3.1.15",
+    "node-fetch": "^2.6.1"
+  }
+}
